@@ -1,0 +1,84 @@
+.jumbotron{
+    padding-top: 140px;
+}
+.navbar-brand span{
+    color: green;
+    font-weight: 700;
+}
+.navbar-brand h5{
+    font-weight: 700;
+}
+.container span{
+    color: green;
+}
+.products-section{
+    padding-top: 100px;
+}
+.categories-section{
+    padding-top: 140px;
+}
+.brands-section{
+    padding-top: 340px;
+}
+.pricing-section{
+    padding-top: 140px;
+}
+.footer-section{
+    padding-top: 140px;
+}
+/* bgian isi */
+.year h6{
+    position: absolute;
+    z-index: 2;
+    top: 15px;
+    right: 25px;
+    color: white;
+}
+.year p{
+    position: absolute;
+    z-index: 2;
+    top: 35px;
+    right: 25px;
+    color: white;
+}
+.img-wrapper{
+    position: relative;
+}
+.img-categories-1{
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+}
+.img-categories-3{
+    width: 100%;
+    height: 360px;
+    position: absolute;
+    z-index: 1;
+}
+.img-categories-4{
+    width: 100%;
+    height: 360px;
+    position: absolute;
+    z-index: 1;
+}
+.mb-200{
+    margin-bottom: 200px;
+}
+/* scroll bar */
+.dukkkk{ 
+    overflow-y: hidden;
+    display: flex;
+    overflow: scroll;
+}
+.dukkkk::-webkit-scrollbar{
+    display: none;
+}
+.dukkkk img{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 30px;
+}
+.copyright{
+    text-align: center;
+    padding: 30px;
+}
